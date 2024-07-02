@@ -1,2 +1,2 @@
-# projetoJogoXadrez
-Criando um sistema de jogo de Xadrez utilizando a linguagem Java
+# Projeto Sistema de Jogo de Xadrez
+Projeto Academico visando aprimorar meus conhecimentos na linguagem Java.
